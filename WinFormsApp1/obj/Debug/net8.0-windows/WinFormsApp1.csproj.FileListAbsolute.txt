@@ -30,3 +30,4 @@ D:\Programmierbude\WordpressVersionAuslesen\WinFormsApp1\bin\Debug\net8.0-window
 D:\Programmierbude\WordpressVersionAuslesen\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
 D:\Programmierbude\WordpressVersionAuslesen\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.FrmMain.resources
 D:\Programmierbude\WordpressVersionAuslesen\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\Programmierbude\WordpressVersionAuslesen\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll

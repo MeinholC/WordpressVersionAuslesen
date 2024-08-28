@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programmierbude2\\WordpressVersionAuslesen\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "D:\\Programmierbude\\WordpressVersionAuslesen_Neu\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "D:\\Programmierbude2\\WordpressVersionAuslesen\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "D:\\Programmierbude\\WordpressVersionAuslesen_Neu\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programmierbude2\\WordpressVersionAuslesen\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "D:\\Programmierbude\\WordpressVersionAuslesen_Neu\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "D:\\Programmierbude2\\WordpressVersionAuslesen\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "D:\\Programmierbude\\WordpressVersionAuslesen_Neu\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\MeinholC.D_LAMBERTZ\\.nuget\\packages\\",
-        "outputPath": "D:\\Programmierbude2\\WordpressVersionAuslesen\\WinFormsApp1\\obj\\",
+        "outputPath": "D:\\Programmierbude\\WordpressVersionAuslesen_Neu\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -55,6 +55,10 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

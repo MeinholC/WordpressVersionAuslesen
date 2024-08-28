@@ -29,42 +29,33 @@
         private void InitializeComponent()
         {
             button1 = new Button();
-            txtUrl = new TextBox();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(338, 118);
+            button1.Location = new Point(12, 12);
             button1.Name = "button1";
-            button1.Size = new Size(75, 23);
+            button1.Size = new Size(128, 23);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "Starten";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
-            // 
-            // txtUrl
-            // 
-            txtUrl.Location = new Point(339, 58);
-            txtUrl.Name = "txtUrl";
-            txtUrl.Size = new Size(100, 23);
-            txtUrl.TabIndex = 1;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(txtUrl);
+            ClientSize = new Size(164, 51);
             Controls.Add(button1);
+            FormBorderStyle = FormBorderStyle.FixedToolWindow;
             Name = "Form1";
+            StartPosition = FormStartPosition.WindowsDefaultBounds;
             Text = "Form1";
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
 
         private Button button1;
-        private TextBox txtUrl;
     }
 }
